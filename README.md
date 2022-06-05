@@ -23,3 +23,5 @@ for (let i=2; i<=10; i+=2) {
     console.log(`Square of ${i} is ${square(i)}`);
 }
 ```
+
+<img width="493" alt="Screen Shot 2022-06-04 at 8 24 26 PM" src="https://user-images.githubusercontent.com/105889862/172033640-093997aa-5183-4386-ab04-c8f42bc56e78.png">
