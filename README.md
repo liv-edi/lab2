@@ -1,5 +1,7 @@
 ## Lab 2
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this lab we set up git user credentials, created a new git repo, created a JS file and added it to git, created a .gitignore file, used diff to see changes, used wildacrds, cloned cloud repos locally, and used branches and repo files.
 
 Technologies used in this lab:
